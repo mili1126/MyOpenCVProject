@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyOpenCVProject</string>
+    <string name="title_activity_lab">LabActivity</string>
+</resources>
